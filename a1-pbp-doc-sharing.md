@@ -17,7 +17,7 @@ Welcome to the presentation by **Kelompok A1**, a dedicated team of 7 members fr
 # 1️⃣ **Object-Oriented Paradigm di Arduino dengan C++**
 
 ## 🔍 Penjelasan dan Fakta/Data:
-- **Problem signifikan**: Pada perangkat IoT seperti Arduino, pengembangan perangkat lunak sering menjadi rumit ketika proyek semakin besar. Ketika berbagai komponen (seperti sensor, aktuator, dan modul komunikasi) perlu diatur, kode procedural (imperatif) menjadi tidak terorganisir. 
+- **Problem signifikan**: Pada perangkat IoT seperti Arduino, **pengembangan perangkat lunak sering menjadi rumit ketika proyek semakin besar. Ketika berbagai komponen (seperti sensor, aktuator, dan modul komunikasi) perlu diatur, kode procedural (imperatif) menjadi tidak terorganisir**. 
 - **Kekompleksan**: Pengelolaan struktur data, perilaku perangkat keras, dan komunikasi antar modul bisa membingungkan tanpa modularitas. OOP memberikan solusi dengan cara mengorganisir komponen-komponen ini ke dalam unit-unit yang lebih kecil, seperti **class** dan **object**.
 - **Relevansi dengan industri**: Dalam pengembangan sistem embedded di industri (misalnya otomotif, smart home), OOP membantu mengelola kompleksitas dan meningkatkan maintainability kode. Pendekatan ini membuat pengembangan sistem lebih modular dan dapat diperluas dengan mudah.
 
